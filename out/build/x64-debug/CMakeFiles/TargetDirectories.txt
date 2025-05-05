@@ -1,0 +1,5 @@
+D:/vstest/CMakeProject1/out/build/x64-debug/CMakeFiles/edit_cache.dir
+D:/vstest/CMakeProject1/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+D:/vstest/CMakeProject1/out/build/x64-debug/CMakeProject1/CMakeFiles/CMakeProject1.dir
+D:/vstest/CMakeProject1/out/build/x64-debug/CMakeProject1/CMakeFiles/edit_cache.dir
+D:/vstest/CMakeProject1/out/build/x64-debug/CMakeProject1/CMakeFiles/rebuild_cache.dir
